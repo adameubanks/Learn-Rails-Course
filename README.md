@@ -6,3 +6,8 @@ https://github.com/KhanradCoder/blog
 
 User Messaging App:
 https://github.com/KhanradCoder/mailbox
+
+Simple To Do App:
+https://github.com/KhanradCoder/todo
+
+And make sure to star this repository so others can find it better!
