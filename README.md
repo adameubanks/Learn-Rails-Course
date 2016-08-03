@@ -1,4 +1,4 @@
-# Learn Rails: Quickly Code, Style and Launch 3 Web Apps
+# Learn Rails: Quickly Code, Style and Launch 4 Web Apps
 Here you will find all of the links to all of the code we will be building during this course.
 
 Our First App (Prints "Hello World" 100 times):
